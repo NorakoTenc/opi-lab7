@@ -4,15 +4,14 @@
 #include "windows.h"
 
 using namespace std;
-//i like potato
 int main()
 {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 	
-	double f, a, x, c, b;
-	cout << "Уведіть a: ";
-	cin >> a;
+	double f, r, x, c, b;
+	cout << "Уведіть r: ";
+	cin >> r;
 	cout << "Уведіть x ";
 	cin >> x;
 	cout << "Уведіть c: ";
