@@ -4,7 +4,7 @@
 #include "windows.h"
 
 using namespace std;
-//comment in Git Bash
+//Bernkastel best witch
 int main()
 {
 	SetConsoleCP(1251);
