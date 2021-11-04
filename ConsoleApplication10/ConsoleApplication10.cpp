@@ -2,13 +2,12 @@
 #include <iostream>
 #include "math.h"
 #include "windows.h"
-
+//alpha
 using namespace std;
 int main()
 {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
-	
 	double f, r, x, c, b;
 	cout << "Уведіть r: ";
 	cin >> r;
@@ -31,3 +30,4 @@ int main()
 	}
 	printf("F= %lf", f);
 }
+//omega
