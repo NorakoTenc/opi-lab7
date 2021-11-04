@@ -4,7 +4,7 @@
 #include "windows.h"
 
 using namespace std;
-//comment in Git Bash
+//ZERO
 int main()
 {
 	SetConsoleCP(1251);
